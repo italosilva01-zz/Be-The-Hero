@@ -1,5 +1,6 @@
 const express = require('express');
 const routes = require('./routes');
+const cors = require('./cors');
 
 const app = express();
 
@@ -22,6 +23,8 @@ const app = express();
 
 */
 //Informando para todas as rotas que irão receber um arquivo json
+
 app.use(express.json());
+app.use(cors());
 app.use(routes);
 app.listen(3333);
