@@ -46,7 +46,7 @@ export default function NewIncident(){
                         para resolver isso.
                     </p>
                    
-                    <Link className="back-line" to="/profile">
+                    <Link className="back-link" to="/profile">
                         <FiArrowLeft size={16} color="#e02041"/>
                         Não tenho cadastro
                     </Link>
