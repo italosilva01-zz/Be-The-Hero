@@ -1,4 +1,5 @@
 # week11_omnistack
+The project is a service that brings together NGOs and people who want to help in cases.
 This project was done on week 11 omnistack by rocket seat. 
 My first experience with Node.js and React.
 
