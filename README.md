@@ -32,6 +32,7 @@ npm i
   - [Express](https://expressjs.com/pt-br/) 
   - [Axios](https://www.npmjs.com/package/axios)
   - [ReactJs](https://pt-br.reactjs.org/)
+  - [SQLite3](https://www.sqlite.org/index.html)
 
 ## In progress
 I will develop the mobile.
