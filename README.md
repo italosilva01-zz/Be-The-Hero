@@ -26,8 +26,11 @@ npm i
   ```
 
   
-## About the project
-The project was done with node.js on the back-end, React on the front-end and React native on mobile
+## Built With
+  - [Node.js](https://nodejs.org/en/) 
+  - [Express](https://expressjs.com/pt-br/) 
+  - [Axios](https://www.npmjs.com/package/axios)
+  - [ReactJs](https://pt-br.reactjs.org/)
 
 ## In progress
 I will develop the mobile.
