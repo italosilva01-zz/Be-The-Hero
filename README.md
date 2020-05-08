@@ -6,21 +6,21 @@ This project was done on week 11 omnistack by rocket seat.
 My first experience with Node.js and React.
 
 ## Getting Started
-  #### #1 clone the project
+  ### clone the project
   ```
   git clone git@github.com:italosilva01/Be-The-Hero.git
   ```
-  #### #2 Enter the backend or frontend folder
+  ### Enter the backend or frontend folder
  ```
 cd backend/ 
 or 
 cd frontend/  
 ```
-  #### #3 Install project dependencies
+  ### Install project dependencies
  ```
 npm i  
 ```
-  #### #4 Run project
+  ### Run project
   ```
   npm run start
   ```
