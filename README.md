@@ -1,4 +1,7 @@
-# Be The Hero
+![logo](https://github.com/italosilva01/Be-The-Hero/blob/refactoring/frontend/src/assets/logo.svg)
+
+
+<br>
 The project is a service that brings together NGOs and people who want to help in cases.
 This project was done on week 11 omnistack by rocket seat. 
 My first experience with Node.js and React.
