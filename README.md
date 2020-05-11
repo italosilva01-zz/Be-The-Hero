@@ -1,11 +1,12 @@
 ![logo](https://github.com/italosilva01/Be-The-Hero/blob/refactoring/frontend/src/assets/logo.svg)
 
 <br>
+
+
+![runProject](https://github.com/italosilva01/Be-The-Hero/blob/refactoring/image/Peek%2008-05-2020%2011-03.gif)
 The project is a service that brings together NGOs and people who want to help in cases.
 This project was done on week 11 omnistack by rocket seat. 
 My first experience with Node.js and React.
-
-![runProject](https://github.com/italosilva01/Be-The-Hero/blob/refactoring/image/Peek%2008-05-2020%2011-03.gif)
 ## Getting Started
   ### clone the project
   ```
