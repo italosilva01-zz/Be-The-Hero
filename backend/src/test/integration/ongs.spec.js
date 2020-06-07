@@ -1,4 +1,5 @@
 const request = require('supertest');
+const app = require('../../app');
 
 describe('ONG',()=>{
     it('should be able to create a new ONG', async ()=>{
@@ -11,5 +12,8 @@ describe('ONG',()=>{
             city:"Rio do Sul",
             uf:"SC"
         })
+        console.log(response);
+
     })
+
 })
